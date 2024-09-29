@@ -8,6 +8,7 @@ Vous pouvez donc envoyer des messages contenant plus de 600 caractères, réagir
 ![profil](https://searcharea.ddns.net/githubspec1.jpg)
 
 Sur la première image, en cliquant sur 'Réagir', vous pouvez utiliser l'un des 5 émojis pour réagir au message. Notez que vous pouvez ajouter plusieurs réactions à un même message.
+
 Sur la deuxième image, on peut voir à quoi ressemble l'interface avec un message classique. Ici, le message contient un média ainsi qu'une réaction '👍'. On peut également voir l'heure et la date d'envoi du message.
 
 
