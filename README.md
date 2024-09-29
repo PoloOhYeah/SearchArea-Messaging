@@ -2,6 +2,11 @@
 Ce nouveau service, déjà disponible sur le site via la page de profil utilisateur, vous permet de communiquer de manière privée avec un autre utilisateur !
 Tout cela fonctionne grâce à PHP !
 
+[SearchArea Messaging]([URL](https://searcharea.ddns.net/messaging.php))
+
+[SearchArea]([URL](https://searcharea.ddns.net/))
+
+
 # Fonctionnalité de système de messagerie :
 Vous pouvez donc envoyer des messages contenant plus de 600 caractères, réagir aux messages que l'on vous envoie ou même à vos propres messages. Et le meilleur, vous pouvez envoyer des fichiers médias au format JPG, JPEG, PNG et MP4 jusqu'à 10 Mo.
 
