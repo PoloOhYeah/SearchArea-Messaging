@@ -2,9 +2,9 @@
 Ce nouveau service, déjà disponible sur le site via la page de profil utilisateur, vous permet de communiquer de manière privée avec un autre utilisateur !
 Tout cela fonctionne grâce à PHP !
 
-[SearchArea Messaging]([https://searcharea.ddns.net/messaging.php])
+SearchArea Messaging ==> https://searcharea.ddns.net/messaging.php
 
-[SearchArea]([https://searcharea.ddns.net/])
+SearchArea ==> https://searcharea.ddns.net/
 
 
 # Fonctionnalité de système de messagerie :
