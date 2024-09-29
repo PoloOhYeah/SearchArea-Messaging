@@ -11,6 +11,9 @@ Sur la première image, en cliquant sur 'Réagir', vous pouvez utiliser l'un des
 
 Sur la deuxième image, on peut voir à quoi ressemble l'interface avec un message classique. Ici, le message contient un média ainsi qu'une réaction '👍'. On peut également voir l'heure et la date d'envoi du message.
 
+Et enfin, sur la troisième image, on peut voir le média qui a été joint au message (ici, c'est un JPG). L'image s'ouvre toujours dans un nouvel onglet et peut être enregistrée sur votre appareil via les options natives de votre navigateur ou application.
+
+
 
 
 
