@@ -13,9 +13,15 @@ Sur la deuxième image, on peut voir à quoi ressemble l'interface avec un messa
 
 Et enfin, sur la troisième image, on peut voir le média qui a été joint au message (ici, c'est un JPG). L'image s'ouvre toujours dans un nouvel onglet et peut être enregistrée sur votre appareil via les options natives de votre navigateur ou application.
 
+# Page d'acceuil de la Messagerie :
 
+Voici à quoi peut ressembler la page d'accueil de la messagerie avec quelques conversations affichées ci-dessous.
 
+![profil](https://searcharea.ddns.net/githubspec2.png)
 
+On peut y voir les différentes conversations ainsi que la posibilité de démarrer une conversation avec un utilisateur en saisisant so ID de compte (disponible sur son profil).
+
+# Porter plainte contre un message ou un utilisateur :
 
 
 
