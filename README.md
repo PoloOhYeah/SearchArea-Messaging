@@ -19,9 +19,13 @@ Voici à quoi peut ressembler la page d'accueil de la messagerie avec quelques c
 
 ![profil](https://searcharea.ddns.net/githubspec2.png)
 
-On peut y voir les différentes conversations ainsi que la posibilité de démarrer une conversation avec un utilisateur en saisisant so ID de compte (disponible sur son profil).
+On peut y voir les différentes conversations ainsi que la possibilité de démarrer une nouvelle conversation avec un utilisateur en saisissant son ID de compte (disponible sur son profil).
 
 # Porter plainte contre un message ou un utilisateur :
+
+Vous pouvez porter plainte contre un message ou un utilisateur si la personne vous a envoyé du contenu inapproprié, comme des menaces de mort, du harcèlement, de l'apologie du terrorisme ou de religions extrémistes.
+
+Une fois le signalement reçu, nous déciderons si son compte doit être suspendu définitivement ou non.
 
 
 
